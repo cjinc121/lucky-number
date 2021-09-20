@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  color: aquamarine;
+  background-color: black;
+}
+input {
+  display: block;
+  width: 200px;
+  padding: 0.4rem;
+  border-radius: 1rem;
+  margin: 20px auto;
+  border-color: black;
+}
+.container {
+  background-color: blueviolet;
+  border-radius: 2rem;
+  width: 60%;
+  margin: 100px auto;
+  height: 500px;
+  padding: 20px;
+}
+#btn {
+  border-radius: 1rem;
+  background-color: aquamarine;
+  padding: 0.5rem;
+  margin: 15px;
+  border-color: black;
+}
+label {
+  font-weight: bold;
+  font-size: larger;
+}
+p {
+  font-weight: bold;
+  font-size: larger;
+}
